@@ -1,0 +1,71 @@
+Cannon Game
+
+Instruções
+Apresentação do Trabalho 
+
+
+
+Este trabalho tem como objetivo aplicar os conceitos estudados na disciplina de Programação III por meio do desenvolvimento colaborativo da aplicação apresentada no Capítulo 6 – Cannon Game App, do livro Android 6 for Programmers: An App-Driven Approach (3rd Edition) em anexo. 
+
+ 
+
+O projeto solicitado contempla tópicos essenciais do desenvolvimento mobile profissional, incluindo: 
+
+Animação quadro a quadro (manual frame-by-frame animation); 
+Manipulação gráfica utilizando Canvas e Paint; 
+Execução de sons; 
+Controle de threads para lógica de jogo e game loop; 
+Uso de SurfaceView e SurfaceHolder; 
+Modo imersivo e controle de tela cheia; 
+Interatividade por toque e atualização responsiva da interface. 
+Objetivo Geral 
+
+Desenvolver, em grupo, a aplicação completa “Cannon Game”, seguindo as orientações e estrutura do Capítulo 6 do livro utilizado na disciplina, demonstrando domínio prático dos conceitos fundamentais de programação mobile em Android. 
+
+Objetivos Específicos 
+
+Ao final do trabalho, cada grupo deve demonstrar: 
+
+Capacidade de compreender e implementar animações e gráficos em baixo nível no Android. 
+Aplicação correta de threads e controle de tempo de execução. 
+Manipulação de eventos de toque (touch events). 
+Implementação de sons no contexto de jogos. 
+Utilização adequada de SurfaceView e SurfaceHolder para desenhar na tela. 
+Organização do código em estilo profissional, conforme boas práticas de desenvolvimento Android. 
+Entrega 
+
+A entrega deverá ser realizada exclusivamente via GitHub, contendo: 
+
+a) Repositório 
+
+Cada grupo deve criar um repositório público no GitHub contendo: 
+
+Código-fonte completo do projeto Android; 
+Estrutura organizada (pastas padrão e arquivos essenciais); 
+README.md com: 
+Nome dos integrantes; 
+Objetivo do projeto; 
+Como executar a aplicação; 
+Funcionalidades implementadas; 
+Screenshots ou GIF de execução (opcional, mas recomendado). 
+b) Padrões obrigatórios 
+
+Deve seguir fielmente os requisitos do capítulo 6. 
+Não serão aceitos arquivos .zip ou .rar; somente o repositório GitHub. 
+O projeto deve compilar e executar sem erros. 
+Composição dos Grupos 
+
+Cada grupo deve ser formado por duplas. 
+Prazo de Entrega 
+
+A entrega final deverá ser feita até: 
+
+📅 16/10/2026 
+
+Incluindo o link do repositório GitHub do grupo. 
+
+Observações Gerais 
+
+A participação efetiva de todos os membros será observada por meio dos commits. 
+Plágio ou cópia direta de outros repositórios acarretará nota zero para o grupo. 
+Grupos que desejarem implementar recursos extras (ex.: customização visual, sons adicionais, melhorias de usabilidade) poderão receber até 0,5 ponto bônus. 

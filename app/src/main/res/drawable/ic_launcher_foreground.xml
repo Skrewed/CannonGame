@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Minimalist Cannon & Target Icon -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M30,66 L64,42 L70,50 L36,74 Z" />
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M34,68m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M75,36m-7,0a7,7 0,1 1,14 0a7,7 0,1 1,-14 0" />
+</vector>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores base do Capítulo 6 (atualizadas com estética minimalista moderna) -->
+    <color name="dark">#2563EB</color>
+    <color name="light">#F59E0B</color>
+
+    <!-- Paleta Modo Dia (Minimalist Light) -->
+    <color name="day_background">#F8FAFC</color>
+    <color name="day_grid">#E2E8F0</color>
+    <color name="day_cannon">#0F172A</color>
+    <color name="day_cannon_accent">#3B82F6</color>
+    <color name="day_blocker">#DC2626</color>
+    <color name="day_target_dark">#2563EB</color>
+    <color name="day_target_light">#F59E0B</color>
+    <color name="day_text_primary">#0F172A</color>
+    <color name="day_hud_surface">#E6FFFFFF</color>
+    <color name="day_hud_border">#CBD5E1</color>
+
+    <!-- Paleta Modo Noturno (Minimalist Dark) -->
+    <color name="night_background">#0B1120</color>
+    <color name="night_grid">#1E293B</color>
+    <color name="night_cannon">#F8FAFC</color>
+    <color name="night_cannon_accent">#38BDF8</color>
+    <color name="night_blocker">#F43F5E</color>
+    <color name="night_target_dark">#38BDF8</color>
+    <color name="night_target_light">#A855F7</color>
+    <color name="night_text_primary">#F8FAFC</color>
+    <color name="night_hud_surface">#D91E293B</color>
+    <color name="night_hud_border">#334155</color>
+
+    <!-- Cores de destaque do aplicativo -->
+    <color name="ic_launcher_background">#0F172A</color>
+</resources>

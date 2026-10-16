@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cannon Game</string>
+
+    <!-- Strings do Capítulo 6 (em Português do Brasil) -->
+    <string name="time_remaining_format">Tempo: %.1f s</string>
+    <string name="win">Vitória! Todos os alvos destruídos!</string>
+    <string name="lose">Fim de Jogo! O tempo esgotou!</string>
+    <string name="reset_game">Reiniciar Jogo</string>
+    <string name="results_format">Pontuação Total: %1$d pts\nNível Alcançado: %2$d\nTiros Disparados: %3$d\nPrecisão: %4$.0f%%\nMaior Sequência (Combo): %5$d\nTempo Decorrido: %6$.1f s</string>
+
+    <!-- Strings dos Recursos Extras (HUD, Níveis, Temas, Ranking) -->
+    <string name="next_level">Próximo Nível (%1$d)</string>
+    <string name="score_hud_format">Pontos: %1$d</string>
+    <string name="combo_hud_format">Combo %1$dx</string>
+    <string name="level_hud_format">Nível %1$d  •  Alvos: %2$d/%3$d</string>
+    <string name="record_hud_format">Recorde: %1$d</string>
+    <string name="power_hud_format">Força: %1$d%%</string>
+    <string name="theme_day_label">☀ Dia</string>
+    <string name="theme_night_label">☾ Noite</string>
+    <string name="sound_on_label">🔊 Som</string>
+    <string name="sound_off_label">🔇 Mudo</string>
+    <string name="swipe_hint">Toque para disparar  •  Deslize verticalmente (ângulo) e horizontalmente (força)</string>
+    <string name="new_record_banner">★ NOVO RECORDE LOCAL! ★</string>
+    <string name="highscores_header">Ranking Local (Top 5)</string>
+    <string name="highscore_entry_format">%1$dº  —  %2$d pts  (Nível %3$d • %4$.0f%%)</string>
+    <string name="no_highscores_yet">Nenhuma pontuação registrada ainda.</string>
+</resources>
