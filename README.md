@@ -1,5 +1,7 @@
 # 🎯 Cannon Game — Android (Java)
 
+![Screenshot](docs/screenshots/Screenshot_20261015_212411.png)
+
 Aplicação Android completa desenvolvida em **Java** para a disciplina de **Programação III**, baseada no **Capítulo 6 – Cannon Game App** do livro *Android 6 for Programmers: An App-Driven Approach (3rd Edition)* (Paul Deitel, Harvey Deitel e Alexander Wald, páginas 217–255), acrescida de **todos os 11 recursos extras** propostos em `References, Requisitos Extras`, visual minimalista.
 
 ---
